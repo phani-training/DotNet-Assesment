@@ -1,0 +1,15 @@
+I Designed the Menu at start.
+
+I created the namespace MedicalResearchApp and Created Disease Class inside it, which
+holds the string type values which the user inputs.
+
+In it I created a void of shallowcopy for Disease class, and then DeepCopy.
+
+In my second Namespace Database, I created Class DiseaseDatabase in which I have written the function of Adding Disease, Symptoms, and patient details.
+
+My third Namespace is UI, it has ENUM, UI class.
+This consists Menu Design, Repo, main Test for Console, and have written function to take inputs from the user.
+
+And my last Namespace MedicalConsole, I have done a class App, in which the main Function Test() starts the whole process.
+
+I have written Utilities in other class file, defined GetNumber and string in Utilities.  
